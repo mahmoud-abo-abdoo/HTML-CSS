@@ -1,0 +1,28 @@
+h2{
+
+background-color: black;
+    /* color:burlywood; */
+    width: 250px;
+}
+button{
+
+    color :black;
+    background-color: blue;
+    border: 5px solid white;
+}
+/* body{ 
+color:black;
+    background-color: blanchedalmond;
+ } */
+div{ 
+    
+    
+    width: 250px;
+    height: 300px;
+    
+
+/* background-color: red; */
+/* solid dotted  dashed */
+border: 1px  dotted blue;
+color: white;
+}
